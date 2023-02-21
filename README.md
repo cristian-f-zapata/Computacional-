@@ -1,2 +1,2 @@
-# Computacional
-Trabajos de la universidad realizados con enfoque de fisica computacional 
+# Computacional 1
+Trabajos de Analisis exploratorio de datos, y metodos supervisados de Machine Learning  
