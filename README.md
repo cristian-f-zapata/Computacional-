@@ -1,2 +1,2 @@
-# Computacional 1
-Trabajos del curso "Física computacional 1" en el cual se vió Analisis exploratorio de datos, y metodos supervisados de Machine Learning  
+# Computational 1
+Here are the assignments for the 'Computational Physics 1' course, which included Exploratory Data Analysis and supervised Machine Learning methods  
